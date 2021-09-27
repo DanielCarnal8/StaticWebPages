@@ -6,14 +6,23 @@
     <description>Recent content in Posts on DanielCarnal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://www.example.com/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Active Directory</title>
+      <link>http://www.example.com/posts/sistemas-inf/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>http://www.example.com/posts/sistemas-inf/</guid>
+      <description>Gestión del Directorio Activo (Active Directory) mediante Powershell.       Active Directory Url     Estructura AD por menú https://github.com/DanielCarnal8/Active-Directory-Script/blob/main/MenuAD.md   GPOs https://github.com/DanielCarnal8/Active-Directory-Script/blob/main/GPOs%20de%20Active%20Directory.md    Tip  El uso de scripts agiliza el tiempo de creación de tareas.  </description>
+    </item>
+    
+    <item>
+      <title>Gestión con Powershell</title>
+      <link>http://www.example.com/posts/powershell-2/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/powershell-2/</guid>
+      <description>Gestión y administración con el uso de Powershell.       Tema URLs     Procesos https://github.com/DanielCarnal8/Powershell/blob/main/Procesos%20mediante%20Powershell.md   Gestión de usuarios https://github.com/DanielCarnal8/Powershell/blob/main/Usuarios.md    Note  Esto es solo una pequeña parte sobre Powershell.  </description>
     </item>
     
     <item>

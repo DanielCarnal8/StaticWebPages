@@ -6,31 +6,67 @@
     <description>Recent content in Tags on DanielCarnal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>http://www.example.com/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>gpo</title>
+      <link>http://www.example.com/tags/gpo/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/css/</guid>
+      <guid>http://www.example.com/tags/gpo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>http://www.example.com/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>gpos</title>
+      <link>http://www.example.com/tags/gpos/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/html/</guid>
+      <guid>http://www.example.com/tags/gpos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>http://www.example.com/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Powershell</title>
+      <link>http://www.example.com/tags/powershell/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/markdown/</guid>
+      <guid>http://www.example.com/tags/powershell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistemas</title>
+      <link>http://www.example.com/tags/sistemas/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/sistemas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contraseñas</title>
+      <link>http://www.example.com/tags/contrase%C3%B1as/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/contrase%C3%B1as/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones</title>
+      <link>http://www.example.com/tags/funciones/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/funciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usuarios</title>
+      <link>http://www.example.com/tags/usuarios/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/usuarios/</guid>
       <description></description>
     </item>
     
@@ -49,6 +85,15 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>http://www.example.com/tags/markdown/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/markdown/</guid>
       <description></description>
     </item>
     

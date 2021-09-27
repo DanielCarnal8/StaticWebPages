@@ -17,45 +17,15 @@
   </url><url>
     <loc>http://www.example.com/pt-br/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/css/"
-                />
   </url><url>
     <loc>http://www.example.com/pt-br/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/markdown-syntax/"
-                />
   </url><url>
     <loc>http://www.example.com/pt-br/series/guia-do-thema/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/pt-br/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/html/"
-                />
   </url><url>
     <loc>http://www.example.com/pt-br/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
