@@ -13,8 +13,9 @@
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/bbdd/</guid>
-      <description>En este apartartado aparecerá todo lo relacionado con la gestion de una BBDD    Los siguientes códigos se han realizado con Microsoft SQL Managment Studio (https://docs.microsoft.com/es-es/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)    OPERACIONES EN UNA BBDD       OPERACIÓN TIPO URLs     FUNCIÓN Números y mensajes https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20bases%20de%20datos.md   FUNCIÓN Fechas https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20fechas.md    Example  Ejemplo de función:
-FUNCIÓN QUE INDICA EL NÚMERO MÁS GRANDE ENTRE TRES DE ESTOS drop function if exists CalcularMayor go create function dbo.</description>
+      <description>En este apartartado aparecerá todo lo relacionado con la gestion de una BBDD    Los siguientes códigos se han realizado con Microsoft SQL Managment Studio (https://docs.microsoft.com/es-es/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)    -PROCEDIMIENTOS    https://github.com/DanielCarnal8/gbd/blob/main/procedimientos.md
+-PROCEDIMIENTOS CON TABLAS    https://github.com/DanielCarnal8/gbd/blob/main/procedimientos%20con%20tablas.md
+-OPERACIONES EN UNA BBDD       OPERACIÓN TIPO URLs     FUNCIÓN Números y mensajes https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20bases%20de%20datos.md   FUNCIÓN Fechas https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20fechas.md   TRIGGER Trigger https://github.</description>
     </item>
     
   </channel>
