@@ -69,6 +69,9 @@
                 href="http://www.example.com/about/"
                 />
   </url><url>
+    <loc>http://www.example.com/posts/bbdd/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.example.com/tags/contrase%C3%B1as/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,47 +81,17 @@
     <loc>http://www.example.com/posts/powershell-2/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/usuarios/</loc>
+    <loc>http://www.example.com/tags/procedimiento/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/privacy/"
-                />
+    <loc>http://www.example.com/tags/select/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/rich-content/"
-                />
+    <loc>http://www.example.com/tags/trigger/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/shortcodes/"
-                />
+    <loc>http://www.example.com/tags/usuarios/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/tags/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
@@ -157,6 +130,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.example.com/posts/placeholder-text/"
+                />
+  </url><url>
+    <loc>http://www.example.com/tags/shortcodes/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/tags/shortcodes/"
                 />
   </url><url>
     <loc>http://www.example.com/tags/text/</loc>

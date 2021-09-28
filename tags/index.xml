@@ -62,6 +62,33 @@
     </item>
     
     <item>
+      <title>procedimiento</title>
+      <link>http://www.example.com/tags/procedimiento/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/procedimiento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>select</title>
+      <link>http://www.example.com/tags/select/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/select/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trigger</title>
+      <link>http://www.example.com/tags/trigger/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/trigger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>usuarios</title>
       <link>http://www.example.com/tags/usuarios/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
@@ -71,29 +98,20 @@
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>http://www.example.com/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>markdown</title>
+      <link>http://www.example.com/tags/markdown/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/privacy/</guid>
+      <guid>http://www.example.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
       <link>http://www.example.com/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>http://www.example.com/tags/markdown/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/markdown/</guid>
+      <guid>http://www.example.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     

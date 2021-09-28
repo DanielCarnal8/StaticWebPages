@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>funciones on DanielCarnal</title>
-    <link>http://www.example.com/tags/funciones/</link>
-    <description>Recent content in funciones on DanielCarnal</description>
+    <title>procedimiento on DanielCarnal</title>
+    <link>http://www.example.com/tags/procedimiento/</link>
+    <description>Recent content in procedimiento on DanielCarnal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/funciones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/procedimiento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administración de bases de datos</title>
       <link>http://www.example.com/posts/bbdd/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://www.example.com/posts/bbdd/</guid>
       <description>En este apartartado aparecerá todo lo relacionado con la gestion de una BBDD    Los siguientes códigos se han realizado con Microsoft SQL Managment Studio (https://docs.microsoft.com/es-es/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)    OPERACIONES EN UNA BBDD       OPERACIÓN TIPO URLs     FUNCIÓN Números y mensajes https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20bases%20de%20datos.md   FUNCIÓN Fechas https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20fechas.md    </description>
-    </item>
-    
-    <item>
-      <title>Gestión con Powershell</title>
-      <link>http://www.example.com/posts/powershell-2/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/powershell-2/</guid>
-      <description>Gestión y administración con el uso de Powershell.       Tema URLs     Procesos https://github.com/DanielCarnal8/Powershell/blob/main/Procesos%20mediante%20Powershell.md   Gestión de usuarios https://github.com/DanielCarnal8/Powershell/blob/main/Usuarios.md    Note  Esto es solo una pequeña parte sobre Powershell.  gracias</description>
     </item>
     
   </channel>
