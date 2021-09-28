@@ -230,6 +230,55 @@
 </tr>
 </tbody>
 </table>
+<div class="notice example">
+  <div class="notice-title">
+    <i class="fa fa-file-text" aria-hidden="true"></i>Example
+  </div>
+  <div class="notice-content"><p>Ejemplo de función:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql">FUNCIÓN QUE INDICA EL NÚMERO MÁS GRANDE ENTRE TRES DE ESTOS
+ <span style="font-weight:bold">drop</span> <span style="font-weight:bold">function</span> <span style="font-weight:bold">if</span> <span style="font-weight:bold">exists</span> CalcularMayor
+<span style="font-weight:bold">go</span>
+
+<span style="font-weight:bold">create</span> <span style="font-weight:bold">function</span> dbo.CalcularMayor
+(
+@numero1 dec(6,3),
+@numero2 dec(6,3),
+@numero3 dec(6,3)
+)
+<span style="font-weight:bold">returns</span> varchar (50)
+<span style="font-weight:bold">as</span>
+	<span style="font-weight:bold">begin</span>
+		<span style="font-weight:bold">declare</span>
+			@mayor dec(6,3)
+		<span style="font-weight:bold">if</span>(@numero1=@numero2) <span style="font-weight:bold">and</span> (@numero1=@numero3)
+			<span style="font-weight:bold">return</span> <span style="font-style:italic">&#39;Los tres numero son iguales&#39;</span>
+		<span style="font-weight:bold">else</span>
+			<span style="font-weight:bold">if</span>(@numero1&gt;@numero2) <span style="font-weight:bold">and</span> (@numero1&gt;@numero3)
+				<span style="font-weight:bold">begin</span>
+					<span style="font-weight:bold">set</span> @mayor=@numero1
+					<span style="font-weight:bold">return</span> <span style="font-style:italic">&#39;El mayor numero de los 3 es: &#39;</span>+<span style="font-weight:bold">cast</span>(@mayor <span style="font-weight:bold">as</span> varchar(30))
+				<span style="font-weight:bold">end</span>
+				<span style="font-weight:bold">else</span>
+					<span style="font-weight:bold">if</span>(@numero2&gt;@numero1) <span style="font-weight:bold">and</span> (@numero2&gt;@numero3)
+						<span style="font-weight:bold">begin</span>
+							<span style="font-weight:bold">set</span> @mayor=@numero2
+							<span style="font-weight:bold">return</span> <span style="font-style:italic">&#39;El mayor numero de los 3 es: &#39;</span>+<span style="font-weight:bold">cast</span>(@mayor <span style="font-weight:bold">as</span> varchar(30))
+						<span style="font-weight:bold">end</span>
+				<span style="font-weight:bold">else</span>
+					<span style="font-weight:bold">set</span> @mayor=@numero3
+					<span style="font-weight:bold">return</span> <span style="font-style:italic">&#39;El mayor numero de los 3 es: &#39;</span>+<span style="font-weight:bold">cast</span>(@mayor <span style="font-weight:bold">as</span> varchar(30))
+	<span style="font-weight:bold">end</span>
+
+<span style="font-weight:bold">select</span> dbo.CalcularMayor(10,108,100) <span style="font-weight:bold">as</span> Mensaje 
+</code></pre></div></div>
+</div>
+
+<h6 id="heading">
+  
+  <a class="heading-link" href="#heading">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h6>
 
       </div>
 
