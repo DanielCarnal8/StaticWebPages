@@ -13,7 +13,7 @@
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/sistemas-inf/</guid>
-      <description>Gestión del Directorio Activo (Active Directory) mediante Powershell.       Active Directory Url     Estructura AD por menú https://github.com/DanielCarnal8/Active-Directory-Script/blob/main/MenuAD.md   GPOs https://github.com/DanielCarnal8/Active-Directory-Script/blob/main/GPOs%20de%20Active%20Directory.md    Tip  El uso de scripts agiliza el tiempo de creación de tareas.  </description>
+      <description>Active Directory    Gestión del Directorio Activo (Active Directory) mediante Powershell.       Active Directory Url     Estructura AD por menú https://github.com/DanielCarnal8/Active-Directory-Script/blob/main/MenuAD.md   GPOs https://github.com/DanielCarnal8/Active-Directory-Script/blob/main/GPOs%20de%20Active%20Directory.md    Tip  El uso de scripts agiliza el tiempo de creación de tareas.  </description>
     </item>
     
     <item>
@@ -32,9 +32,9 @@ FORMACIÓN ACADÉMICA:       CENTRO GRADO     IES Jimena Menendez Pidal Título 
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/bbdd/</guid>
-      <description>En este apartartado aparecerá todo lo relacionado con la gestion de una BBDD    Los siguientes códigos se han realizado con Microsoft SQL Managment Studio (https://docs.microsoft.com/es-es/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)    -PROCEDIMIENTOS    https://github.com/DanielCarnal8/gbd/blob/main/procedimientos.md
+      <description>En este apartartado aparecerá todo lo relacionado con la gestion de una BBDD    Los siguientes códigos se han realizado con Microsoft SQL Managment Studio (https://docs.microsoft.com/es-es/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)     -PROCEDIMIENTOS    https://github.com/DanielCarnal8/gbd/blob/main/procedimientos.md
 -PROCEDIMIENTOS CON TABLAS    https://github.com/DanielCarnal8/gbd/blob/main/procedimientos%20con%20tablas.md
--OPERACIONES EN UNA BBDD       OPERACIÓN TIPO URLs     FUNCIÓN Números y mensajes https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20bases%20de%20datos.md   FUNCIÓN Fechas https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20fechas.md   TRIGGER Trigger https://github.</description>
+-OPERACIONES EN UNA BBDD       OPERACIÓN TIPO URLs     FUNCIÓN Números y mensajes https://github.com/DanielCarnal8/gbd/blob/main/Funciones%20con%20bases%20de%20datos.md   FUNCIÓN Fechas https://github.</description>
     </item>
     
     <item>
@@ -43,52 +43,26 @@ FORMACIÓN ACADÉMICA:       CENTRO GRADO     IES Jimena Menendez Pidal Título 
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/powershell-2/</guid>
-      <description>Gestión y administración con el uso de Powershell.       Tema URLs     Procesos https://github.com/DanielCarnal8/Powershell/blob/main/Procesos%20mediante%20Powershell.md   Gestión de usuarios https://github.com/DanielCarnal8/Powershell/blob/main/Usuarios.md    Note  Esto es solo una pequeña parte sobre Powershell.  gracias</description>
+      <description>Gestión y administración con el uso de Powershell.       Tema URLs     Procesos https://github.com/DanielCarnal8/Powershell/blob/main/Procesos%20mediante%20Powershell.md   Gestión de usuarios https://github.com/DanielCarnal8/Powershell/blob/main/Usuarios.md    Note  Esto es solo una pequeña parte sobre Powershell.   &amp;lt;details open&amp;gt; &amp;lt;summary&amp;gt;Want to ruin the surprise?&amp;lt;/summary&amp;gt; &amp;lt;br&amp;gt; Well, you asked for it! &amp;lt;/details&amp;gt;  </description>
     </item>
     
     <item>
-      <title>More Rich Content</title>
-      <link>http://www.example.com/posts/more-rich-content/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>http://www.example.com/about.pt-br/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/more-rich-content/</guid>
-      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+      <guid>http://www.example.com/about.pt-br/</guid>
+      <description>Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença Apache Licence 2.0. O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
+O Hugo faz o uso de vários projetos de código aberto incluíndo:</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>http://www.example.com/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Contato</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://www.example.com/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://www.example.com/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>External Page: Hugo Coder Wiki</title>
-      <link>http://www.example.com/posts/hugo-coder-wiki/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/hugo-coder-wiki/</guid>
-      <description></description>
+      <guid>http://www.example.com/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
     </item>
     
     <item>
@@ -99,15 +73,6 @@ FORMACIÓN ACADÉMICA:       CENTRO GRADO     IES Jimena Menendez Pidal Título 
       <guid>http://www.example.com/contact/</guid>
       <description>Puedes contactar conmigo a través de gmail:
 danielcarnalduran8@gmail.com </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
   </channel>
